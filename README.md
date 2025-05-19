@@ -2,8 +2,8 @@
 
 My name is Magdalena, and I'm a student at Dominican University majoring in Data Science interest in all things Python and Data Science!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on cricket game data analytics, picking the best 11 players with the best performance.
+- 🌱 I’m currently learning PowerBI and web scraping in Python
 <!--
 **mkozak591/mkozak591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

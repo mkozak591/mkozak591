@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Magdalena, and I'm a student at Dominican University majoring in Data Science interest in all things Python and Data Science!
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 <!--
 **mkozak591/mkozak591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Magdalena, and I'm a student at Dominican University majoring in Data Science interest in all things Python and Data Science!
+My name is Magdalena, and I'm a student at Dominican University majoring in Data Science and I am interested in all things Python and Data Science!
 
 - 🌱 I’m currently learning PowerBI and web scraping in Python
 <!--
